@@ -1,0 +1,1973 @@
+3 3 3 2 2 2
+1 1 1
+162
+
+
+Coordinate 0 0 0
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0 0 0.5
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0 0.5 0
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0 0.5 0.5
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0.5 0 0
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0.5 0 0.5
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0.5 0.5 0
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+Coordinate 0.5 0.5 0.5
+Dimension 0.5 0.5 0.5
+Colour 1 0.85 0.9625
+EMU 10 0.15
+CurrCubFlag 1
+
+
+
+Coordinate 0 0 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0 0.333333 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.333333 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.333333 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.333333 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0 0.666667 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.666667 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.666667 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 0.666667 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0 1 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 1 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 1 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0 1 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.333333 0 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.333333 0.333333 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.333333 0.333333
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.333333 0.666667
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.333333 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.333333 0.666667 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.666667 0.333333
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.666667 0.666667
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 0.666667 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.333333 1 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 1 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 1 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.333333 1 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.666667 0 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.666667 0.333333 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.333333 0.333333
+Displacement -1.51071e+234 -1.09543e+263 4.73e-94
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.333333 0.666667
+Displacement 1.09796e-209 4.34375e-94 4.34375e-94
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.333333 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.666667 0.666667 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.666667 0.333333
+Displacement -8.77098e+108 1.09737e-209 5.44123e-123
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.666667 0.666667
+Displacement -2.70443e+253 -2.16877e+282 2.71707e-36
+Boundary 0 0 0
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 0.666667 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 0.666667 1 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 1 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 1 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 0.666667 1 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 1 0 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 1 0.333333 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.333333 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.333333 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.333333 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 1 0.666667 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.666667 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.666667 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 0.666667 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 0.5 0.35 0.05
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 1 1 0
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 1 0.333333
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 1 0.666667
+Displacement 0 0 0
+Boundary 1 1 1
+Colour 0 0 1
+CurrNodeFlag 0
+PFlag 0
+NodeRectFlag 0
+
+Coordinate 1 1 1
+Displacement 0 0 0
+Boundary 0 0 0
+Colour 1 1 0
+CurrNodeFlag 1
+PFlag 1
+NodeRectFlag 0
+
+Coordinate 17 5 21 16
+Centr 0.25 0.166667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 4 20 21 16
+Centr 0.25 0.25 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 4 21 5 16
+Centr 0.166667 0.25 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 1 5 17 0
+Centr 0.0833333 0.0833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 16 17 5 0
+Centr 0.166667 0.0833333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 16 5 4 0
+Centr 0.0833333 0.166667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 18 6 22 17
+Centr 0.25 0.166667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 5 21 22 17
+Centr 0.25 0.25 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 5 22 6 17
+Centr 0.166667 0.25 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 2 6 18 1
+Centr 0.0833333 0.0833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 17 18 6 1
+Centr 0.166667 0.0833333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 17 6 5 1
+Centr 0.0833333 0.166667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 19 7 23 18
+Centr 0.25 0.166667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 6 22 23 18
+Centr 0.25 0.25 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 6 23 7 18
+Centr 0.166667 0.25 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 3 7 19 2
+Centr 0.0833333 0.0833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 18 19 7 2
+Centr 0.166667 0.0833333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 18 7 6 2
+Centr 0.0833333 0.166667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 9 25 20
+Centr 0.25 0.5 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 8 24 25 20
+Centr 0.25 0.583333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 8 25 9 20
+Centr 0.166667 0.583333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 5 9 21 4
+Centr 0.0833333 0.416667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 20 21 9 4
+Centr 0.166667 0.416667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 20 9 8 4
+Centr 0.0833333 0.5 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 10 26 21
+Centr 0.25 0.5 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 9 25 26 21
+Centr 0.25 0.583333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 9 26 10 21
+Centr 0.166667 0.583333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 6 10 22 5
+Centr 0.0833333 0.416667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 22 10 5
+Centr 0.166667 0.416667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 10 9 5
+Centr 0.0833333 0.5 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 23 11 27 22
+Centr 0.25 0.5 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 10 26 27 22
+Centr 0.25 0.583333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 10 27 11 22
+Centr 0.166667 0.583333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 7 11 23 6
+Centr 0.0833333 0.416667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 23 11 6
+Centr 0.166667 0.416667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 11 10 6
+Centr 0.0833333 0.5 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 13 29 24
+Centr 0.25 0.833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 12 28 29 24
+Centr 0.25 0.916667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 12 29 13 24
+Centr 0.166667 0.916667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 9 13 25 8
+Centr 0.0833333 0.75 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 24 25 13 8
+Centr 0.166667 0.75 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 24 13 12 8
+Centr 0.0833333 0.833333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 14 30 25
+Centr 0.25 0.833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 13 29 30 25
+Centr 0.25 0.916667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 13 30 14 25
+Centr 0.166667 0.916667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 10 14 26 9
+Centr 0.0833333 0.75 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 26 14 9
+Centr 0.166667 0.75 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 14 13 9
+Centr 0.0833333 0.833333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 27 15 31 26
+Centr 0.25 0.833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 14 30 31 26
+Centr 0.25 0.916667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 14 31 15 26
+Centr 0.166667 0.916667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 11 15 27 10
+Centr 0.0833333 0.75 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 27 15 10
+Centr 0.166667 0.75 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 15 14 10
+Centr 0.0833333 0.833333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 33 21 37 32
+Centr 0.583333 0.166667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 20 36 37 32
+Centr 0.583333 0.25 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 20 37 21 32
+Centr 0.5 0.25 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 17 21 33 16
+Centr 0.416667 0.0833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 32 33 21 16
+Centr 0.5 0.0833333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 32 21 20 16
+Centr 0.416667 0.166667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 34 22 38 33
+Centr 0.583333 0.166667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 37 38 33
+Centr 0.583333 0.25 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 38 22 33
+Centr 0.5 0.25 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 18 22 34 17
+Centr 0.416667 0.0833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 33 34 22 17
+Centr 0.5 0.0833333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 33 22 21 17
+Centr 0.416667 0.166667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 35 23 39 34
+Centr 0.583333 0.166667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 38 39 34
+Centr 0.583333 0.25 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 39 23 34
+Centr 0.5 0.25 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 19 23 35 18
+Centr 0.416667 0.0833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 34 35 23 18
+Centr 0.5 0.0833333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 34 23 22 18
+Centr 0.416667 0.166667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 25 41 36
+Centr 0.583333 0.5 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 24 40 41 36
+Centr 0.583333 0.583333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 24 41 25 36
+Centr 0.5 0.583333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 21 25 37 20
+Centr 0.416667 0.416667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 36 37 25 20
+Centr 0.5 0.416667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 36 25 24 20
+Centr 0.416667 0.5 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 26 42 37
+Centr 0.583333 0.5 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 41 42 37
+Centr 0.583333 0.583333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 42 26 37
+Centr 0.5 0.583333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 22 26 38 21
+Centr 0.416667 0.416667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 38 26 21
+Centr 0.5 0.416667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 26 25 21
+Centr 0.416667 0.5 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 39 27 43 38
+Centr 0.583333 0.5 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 42 43 38
+Centr 0.583333 0.583333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 43 27 38
+Centr 0.5 0.583333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 23 27 39 22
+Centr 0.416667 0.416667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 39 27 22
+Centr 0.5 0.416667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 27 26 22
+Centr 0.416667 0.5 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 29 45 40
+Centr 0.583333 0.833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 28 44 45 40
+Centr 0.583333 0.916667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 28 45 29 40
+Centr 0.5 0.916667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 25 29 41 24
+Centr 0.416667 0.75 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 40 41 29 24
+Centr 0.5 0.75 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 40 29 28 24
+Centr 0.416667 0.833333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 30 46 41
+Centr 0.583333 0.833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 29 45 46 41
+Centr 0.583333 0.916667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 29 46 30 41
+Centr 0.5 0.916667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 26 30 42 25
+Centr 0.416667 0.75 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 42 30 25
+Centr 0.5 0.75 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 30 29 25
+Centr 0.416667 0.833333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 43 31 47 42
+Centr 0.583333 0.833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 30 46 47 42
+Centr 0.583333 0.916667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 30 47 31 42
+Centr 0.5 0.916667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 27 31 43 26
+Centr 0.416667 0.75 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 43 31 26
+Centr 0.5 0.75 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 31 30 26
+Centr 0.416667 0.833333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 49 37 53 48
+Centr 0.916667 0.166667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 36 52 53 48
+Centr 0.916667 0.25 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 36 53 37 48
+Centr 0.833333 0.25 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 33 37 49 32
+Centr 0.75 0.0833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 48 49 37 32
+Centr 0.833333 0.0833333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 48 37 36 32
+Centr 0.75 0.166667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 50 38 54 49
+Centr 0.916667 0.166667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 53 54 49
+Centr 0.916667 0.25 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 54 38 49
+Centr 0.833333 0.25 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 34 38 50 33
+Centr 0.75 0.0833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 49 50 38 33
+Centr 0.833333 0.0833333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 49 38 37 33
+Centr 0.75 0.166667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 51 39 55 50
+Centr 0.916667 0.166667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 54 55 50
+Centr 0.916667 0.25 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 55 39 50
+Centr 0.833333 0.25 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 35 39 51 34
+Centr 0.75 0.0833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 50 51 39 34
+Centr 0.833333 0.0833333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 50 39 38 34
+Centr 0.75 0.166667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 53 41 57 52
+Centr 0.916667 0.5 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 40 56 57 52
+Centr 0.916667 0.583333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 40 57 41 52
+Centr 0.833333 0.583333 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 37 41 53 36
+Centr 0.75 0.416667 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 52 53 41 36
+Centr 0.833333 0.416667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 52 41 40 36
+Centr 0.75 0.5 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 54 42 58 53
+Centr 0.916667 0.5 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 57 58 53
+Centr 0.916667 0.583333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 58 42 53
+Centr 0.833333 0.583333 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 38 42 54 37
+Centr 0.75 0.416667 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 53 54 42 37
+Centr 0.833333 0.416667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 53 42 41 37
+Centr 0.75 0.5 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 55 43 59 54
+Centr 0.916667 0.5 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 58 59 54
+Centr 0.916667 0.583333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 59 43 54
+Centr 0.833333 0.583333 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 39 43 55 38
+Centr 0.75 0.416667 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 54 55 43 38
+Centr 0.833333 0.416667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 54 43 42 38
+Centr 0.75 0.5 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 57 45 61 56
+Centr 0.916667 0.833333 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 44 60 61 56
+Centr 0.916667 0.916667 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 44 61 45 56
+Centr 0.833333 0.916667 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 41 45 57 40
+Centr 0.75 0.75 0.25
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 56 57 45 40
+Centr 0.833333 0.75 0.166667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 56 45 44 40
+Centr 0.75 0.833333 0.0833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 58 46 62 57
+Centr 0.916667 0.833333 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 45 61 62 57
+Centr 0.916667 0.916667 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 45 62 46 57
+Centr 0.833333 0.916667 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 42 46 58 41
+Centr 0.75 0.75 0.583333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 57 58 46 41
+Centr 0.833333 0.75 0.5
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 57 46 45 41
+Centr 0.75 0.833333 0.416667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 59 47 63 58
+Centr 0.916667 0.833333 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 46 62 63 58
+Centr 0.916667 0.916667 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 46 63 47 58
+Centr 0.833333 0.916667 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 43 47 59 42
+Centr 0.75 0.75 0.916667
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 58 59 47 42
+Centr 0.833333 0.75 0.833333
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+Coordinate 58 47 46 42
+Centr 0.75 0.833333 0.75
+Colour 1 0.85 0.9625
+Volume 0.00617284
+EMU 10 0.15
+
+
+
+Coordinate 4 0 5
+Normal -0.111111 0 0
+Normal0 0 0.222222 0.111111
+
+Coordinate 1 5 0
+Normal -0.111111 -0 0
+Normal0 0 0.111111 0.222222
+
+Coordinate 48 52 53
+Normal 0.111111 0 0
+Normal0 1 0.222222 0.111111
+
+Coordinate 49 48 53
+Normal 0.111111 0 0
+Normal0 1 0.111111 0.222222
+
+Coordinate 5 1 6
+Normal -0.111111 0 0
+Normal0 0 0.222222 0.444444
+
+Coordinate 2 6 1
+Normal -0.111111 -0 0
+Normal0 0 0.111111 0.555556
+
+Coordinate 49 53 54
+Normal 0.111111 0 0
+Normal0 1 0.222222 0.444444
+
+Coordinate 50 49 54
+Normal 0.111111 0 0
+Normal0 1 0.111111 0.555556
+
+Coordinate 6 2 7
+Normal -0.111111 0 0
+Normal0 0 0.222222 0.777778
+
+Coordinate 3 7 2
+Normal -0.111111 -0 0
+Normal0 0 0.111111 0.888889
+
+Coordinate 50 54 55
+Normal 0.111111 0 0
+Normal0 1 0.222222 0.777778
+
+Coordinate 51 50 55
+Normal 0.111111 0 0
+Normal0 1 0.111111 0.888889
+
+Coordinate 8 4 9
+Normal -0.111111 0 0
+Normal0 0 0.555556 0.111111
+
+Coordinate 5 9 4
+Normal -0.111111 -0 0
+Normal0 0 0.444444 0.222222
+
+Coordinate 52 56 57
+Normal 0.111111 0 0
+Normal0 1 0.555556 0.111111
+
+Coordinate 53 52 57
+Normal 0.111111 0 0
+Normal0 1 0.444444 0.222222
+
+Coordinate 9 5 10
+Normal -0.111111 0 0
+Normal0 0 0.555556 0.444444
+
+Coordinate 6 10 5
+Normal -0.111111 -0 0
+Normal0 0 0.444444 0.555556
+
+Coordinate 53 57 58
+Normal 0.111111 0 0
+Normal0 1 0.555556 0.444444
+
+Coordinate 54 53 58
+Normal 0.111111 0 0
+Normal0 1 0.444444 0.555556
+
+Coordinate 10 6 11
+Normal -0.111111 0 0
+Normal0 0 0.555556 0.777778
+
+Coordinate 7 11 6
+Normal -0.111111 -0 0
+Normal0 0 0.444444 0.888889
+
+Coordinate 54 58 59
+Normal 0.111111 0 0
+Normal0 1 0.555556 0.777778
+
+Coordinate 55 54 59
+Normal 0.111111 0 0
+Normal0 1 0.444444 0.888889
+
+Coordinate 12 8 13
+Normal -0.111111 0 0
+Normal0 0 0.888889 0.111111
+
+Coordinate 9 13 8
+Normal -0.111111 -0 0
+Normal0 0 0.777778 0.222222
+
+Coordinate 56 60 61
+Normal 0.111111 0 0
+Normal0 1 0.888889 0.111111
+
+Coordinate 57 56 61
+Normal 0.111111 0 0
+Normal0 1 0.777778 0.222222
+
+Coordinate 13 9 14
+Normal -0.111111 0 0
+Normal0 0 0.888889 0.444444
+
+Coordinate 10 14 9
+Normal -0.111111 -0 0
+Normal0 0 0.777778 0.555556
+
+Coordinate 57 61 62
+Normal 0.111111 0 0
+Normal0 1 0.888889 0.444444
+
+Coordinate 58 57 62
+Normal 0.111111 0 0
+Normal0 1 0.777778 0.555556
+
+Coordinate 14 10 15
+Normal -0.111111 0 0
+Normal0 0 0.888889 0.777778
+
+Coordinate 11 15 10
+Normal -0.111111 -0 0
+Normal0 0 0.777778 0.888889
+
+Coordinate 58 62 63
+Normal 0.111111 0 0
+Normal0 1 0.888889 0.777778
+
+Coordinate 59 58 63
+Normal 0.111111 0 0
+Normal0 1 0.777778 0.888889
+
+Coordinate 16 0 17
+Normal 0 -0.111111 -0
+Normal0 0.222222 0 0.111111
+
+Coordinate 0 1 17
+Normal 0 -0.111111 0
+Normal0 0.111111 0 0.222222
+
+Coordinate 12 28 29
+Normal 0 0.111111 0
+Normal0 0.222222 1 0.111111
+
+Coordinate 12 29 13
+Normal 0 0.111111 0
+Normal0 0.111111 1 0.222222
+
+Coordinate 17 1 18
+Normal 0 -0.111111 -0
+Normal0 0.222222 0 0.444444
+
+Coordinate 1 2 18
+Normal 0 -0.111111 0
+Normal0 0.111111 0 0.555556
+
+Coordinate 13 29 30
+Normal 0 0.111111 0
+Normal0 0.222222 1 0.444444
+
+Coordinate 13 30 14
+Normal 0 0.111111 0
+Normal0 0.111111 1 0.555556
+
+Coordinate 18 2 19
+Normal 0 -0.111111 -0
+Normal0 0.222222 0 0.777778
+
+Coordinate 2 3 19
+Normal 0 -0.111111 0
+Normal0 0.111111 0 0.888889
+
+Coordinate 14 30 31
+Normal 0 0.111111 0
+Normal0 0.222222 1 0.777778
+
+Coordinate 14 31 15
+Normal 0 0.111111 0
+Normal0 0.111111 1 0.888889
+
+Coordinate 32 16 33
+Normal 0 -0.111111 -0
+Normal0 0.555556 0 0.111111
+
+Coordinate 16 17 33
+Normal 0 -0.111111 0
+Normal0 0.444444 0 0.222222
+
+Coordinate 28 44 45
+Normal 0 0.111111 0
+Normal0 0.555556 1 0.111111
+
+Coordinate 28 45 29
+Normal 0 0.111111 0
+Normal0 0.444444 1 0.222222
+
+Coordinate 33 17 34
+Normal 0 -0.111111 -0
+Normal0 0.555556 0 0.444444
+
+Coordinate 17 18 34
+Normal 0 -0.111111 0
+Normal0 0.444444 0 0.555556
+
+Coordinate 29 45 46
+Normal 0 0.111111 0
+Normal0 0.555556 1 0.444444
+
+Coordinate 29 46 30
+Normal 0 0.111111 0
+Normal0 0.444444 1 0.555556
+
+Coordinate 34 18 35
+Normal 0 -0.111111 -0
+Normal0 0.555556 0 0.777778
+
+Coordinate 18 19 35
+Normal 0 -0.111111 0
+Normal0 0.444444 0 0.888889
+
+Coordinate 30 46 47
+Normal 0 0.111111 0
+Normal0 0.555556 1 0.777778
+
+Coordinate 30 47 31
+Normal 0 0.111111 0
+Normal0 0.444444 1 0.888889
+
+Coordinate 48 32 49
+Normal 0 -0.111111 -0
+Normal0 0.888889 0 0.111111
+
+Coordinate 32 33 49
+Normal 0 -0.111111 0
+Normal0 0.777778 0 0.222222
+
+Coordinate 44 60 61
+Normal 0 0.111111 0
+Normal0 0.888889 1 0.111111
+
+Coordinate 44 61 45
+Normal 0 0.111111 0
+Normal0 0.777778 1 0.222222
+
+Coordinate 49 33 50
+Normal 0 -0.111111 -0
+Normal0 0.888889 0 0.444444
+
+Coordinate 33 34 50
+Normal 0 -0.111111 0
+Normal0 0.777778 0 0.555556
+
+Coordinate 45 61 62
+Normal 0 0.111111 0
+Normal0 0.888889 1 0.444444
+
+Coordinate 45 62 46
+Normal 0 0.111111 0
+Normal0 0.777778 1 0.555556
+
+Coordinate 50 34 51
+Normal 0 -0.111111 -0
+Normal0 0.888889 0 0.777778
+
+Coordinate 34 35 51
+Normal 0 -0.111111 0
+Normal0 0.777778 0 0.888889
+
+Coordinate 46 62 63
+Normal 0 0.111111 0
+Normal0 0.888889 1 0.777778
+
+Coordinate 46 63 47
+Normal 0 0.111111 0
+Normal0 0.777778 1 0.888889
+
+Coordinate 16 0 4
+Normal 0 0 -0.111111
+Normal0 0.111111 0.111111 0
+
+Coordinate 16 4 20
+Normal 0 -0 -0.111111
+Normal0 0.222222 0.222222 0
+
+Coordinate 3 19 7
+Normal 0 0 0.111111
+Normal0 0.111111 0.111111 1
+
+Coordinate 19 23 7
+Normal 0 0 0.111111
+Normal0 0.222222 0.222222 1
+
+Coordinate 20 4 8
+Normal 0 0 -0.111111
+Normal0 0.111111 0.444444 0
+
+Coordinate 20 8 24
+Normal 0 -0 -0.111111
+Normal0 0.222222 0.555556 0
+
+Coordinate 7 23 11
+Normal 0 0 0.111111
+Normal0 0.111111 0.444444 1
+
+Coordinate 23 27 11
+Normal 0 0 0.111111
+Normal0 0.222222 0.555556 1
+
+Coordinate 24 8 12
+Normal 0 0 -0.111111
+Normal0 0.111111 0.777778 0
+
+Coordinate 24 12 28
+Normal 0 -0 -0.111111
+Normal0 0.222222 0.888889 0
+
+Coordinate 11 27 15
+Normal 0 0 0.111111
+Normal0 0.111111 0.777778 1
+
+Coordinate 27 31 15
+Normal 0 0 0.111111
+Normal0 0.222222 0.888889 1
+
+Coordinate 32 16 20
+Normal 0 0 -0.111111
+Normal0 0.444444 0.111111 0
+
+Coordinate 32 20 36
+Normal 0 -0 -0.111111
+Normal0 0.555556 0.222222 0
+
+Coordinate 19 35 23
+Normal 0 0 0.111111
+Normal0 0.444444 0.111111 1
+
+Coordinate 35 39 23
+Normal 0 0 0.111111
+Normal0 0.555556 0.222222 1
+
+Coordinate 36 20 24
+Normal 0 0 -0.111111
+Normal0 0.444444 0.444444 0
+
+Coordinate 36 24 40
+Normal 0 -0 -0.111111
+Normal0 0.555556 0.555556 0
+
+Coordinate 23 39 27
+Normal 0 0 0.111111
+Normal0 0.444444 0.444444 1
+
+Coordinate 39 43 27
+Normal 0 0 0.111111
+Normal0 0.555556 0.555556 1
+
+Coordinate 40 24 28
+Normal 0 0 -0.111111
+Normal0 0.444444 0.777778 0
+
+Coordinate 40 28 44
+Normal 0 -0 -0.111111
+Normal0 0.555556 0.888889 0
+
+Coordinate 27 43 31
+Normal 0 0 0.111111
+Normal0 0.444444 0.777778 1
+
+Coordinate 43 47 31
+Normal 0 0 0.111111
+Normal0 0.555556 0.888889 1
+
+Coordinate 48 32 36
+Normal 0 0 -0.111111
+Normal0 0.777778 0.111111 0
+
+Coordinate 48 36 52
+Normal 0 -0 -0.111111
+Normal0 0.888889 0.222222 0
+
+Coordinate 35 51 39
+Normal 0 0 0.111111
+Normal0 0.777778 0.111111 1
+
+Coordinate 51 55 39
+Normal 0 0 0.111111
+Normal0 0.888889 0.222222 1
+
+Coordinate 52 36 40
+Normal 0 0 -0.111111
+Normal0 0.777778 0.444444 0
+
+Coordinate 52 40 56
+Normal 0 -0 -0.111111
+Normal0 0.888889 0.555556 0
+
+Coordinate 39 55 43
+Normal 0 0 0.111111
+Normal0 0.777778 0.444444 1
+
+Coordinate 55 59 43
+Normal 0 0 0.111111
+Normal0 0.888889 0.555556 1
+
+Coordinate 56 40 44
+Normal 0 0 -0.111111
+Normal0 0.777778 0.777778 0
+
+Coordinate 56 44 60
+Normal 0 -0 -0.111111
+Normal0 0.888889 0.888889 0
+
+Coordinate 43 59 47
+Normal 0 0 0.111111
+Normal0 0.777778 0.777778 1
+
+Coordinate 59 63 47
+Normal 0 0 0.111111
+Normal0 0.888889 0.888889 1
+
